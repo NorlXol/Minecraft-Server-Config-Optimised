@@ -1,1 +1,2 @@
-A Optimised Minecraft Server COnfig.
+A Optimised Minecraft Server Config.
+
