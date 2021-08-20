@@ -1,1 +1,1 @@
-# MInecraft-Server-Config-Optimised
+A Optimised Minecraft Server COnfig.
